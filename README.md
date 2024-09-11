@@ -51,6 +51,7 @@
 **Também é usado como perfil no GitHub. Abaixo segue alguns links que ajudam a montar um perfil para o github com facilidade, formatando, inserindo imagens e até contadores de projetos.**
 
 **1. https://profile-readme-generator.com/**
+
 **2. https://rahuldkjain.github.io/gh-profile-readme-generator/**
 
 
