@@ -53,3 +53,20 @@
 **1. https://profile-readme-generator.com/**
 
 **2. https://rahuldkjain.github.io/gh-profile-readme-generator/**
+
+<div align="center">
+  
+## Passo a Passo Criação de um repositório
+
+</div>
+
+**"Your repositories" no seu perfil > "New" > Nome do repositório > Escolhe se o mesmo vai ser público ou privado > Add REAME > Creat Repository**
+
+<div align="center">
+  
+## Fork
+
+</div>
+
+* ### O que é "Forkar"?
+**É o ato de arrastar para o seu GitHub o repositório de outro usuário. No entanto isso não significa que você passará a ser dono do repositório, mas poderá o consultar quando for preciso e também poderá contribuir fazendo uma branch do mesmo.**
